@@ -1,6 +1,7 @@
 // C Program to Check Even or odd number
 
 #include <stdio.h>
+
 void checkOddEven(int N) {
   
     // Find the remainder
