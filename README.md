@@ -1,9 +1,12 @@
 // C Program to Check Even or odd number
 
 #include <stdio.h>
+
 int main() {
     int num;
+
     printf("Enter an integer: ");
+
     scanf("%d", &num);
 
     // true if num is perfectly divisible by 2
