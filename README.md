@@ -3,7 +3,8 @@
 #include <stdio.h>
 
  void checkOddEven(int N) {
-  
+  prinf("Enter a number to check"\n);
+  scanf('%d',int);
     // Find the remainder
     int r = N % 2;
 
